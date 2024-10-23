@@ -1,0 +1,9 @@
+
+sources:
+  - name: "sample_SF"
+    database: EXERCISE_DB
+    schema: PUBLIC
+    tables:
+      - name: CUSTOMERS
+      - name: EMPLOYEES
+      - name: JSON_RAW
